@@ -41,6 +41,7 @@ export default {
             items: [
                 { title: "Dashboard", to: "/" },
                 { title: "GD", to: "/gd" },
+                { title: "TUGAS", to: "/tgs" },
             ],
         };
     },
